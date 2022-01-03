@@ -590,7 +590,7 @@ a {
 	justify-content: center;
 }
 .section8__img {
-	flex: 1 1 25%;
+	flex: 1 1 calc(25% - 20px);
 	display: flex;
 	justify-content: center;
 	align-items: center;
